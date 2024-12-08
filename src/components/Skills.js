@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { FaReact, FaJava, FaDatabase, FaHtml5, FaCss3Alt, FaGit, FaAws, FaJenkins } from "react-icons/fa";
+import { FaReact, FaJava, FaDatabase, FaHtml5, FaCss3Alt, FaGit, FaAws } from "react-icons/fa";
 import { SiSpringboot, SiAngular, SiMysql, SiMongodb } from "react-icons/si";
 import { motion } from "framer-motion";
 
